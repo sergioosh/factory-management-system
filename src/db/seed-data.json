@@ -1,0 +1,1366 @@
+{
+ "products": [
+  {
+   "code": "FG001",
+   "name": "AVION STRAWS",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG002",
+   "name": "WAVEX STRAWS",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG003",
+   "name": "CHINESE JUICE STRAWS",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG004",
+   "name": "MUZURI STICKS 105MM",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG005",
+   "name": "MUZURI STICKS 69MM",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG006",
+   "name": "MUZURI STICKS 175MM",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG007",
+   "name": "CANDY STICKS 95MM",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG008",
+   "name": "MUKONO STICKS 175MM",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG009",
+   "name": "MUKONO STICKS 105MM",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG010",
+   "name": "NEW STICK CUSTOMER 1",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG011",
+   "name": "NEW STICK CUSTOMER 2",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG012",
+   "name": "NEW STICK CUSTOMER 3",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG013",
+   "name": "NEW STICK CUSTOMER 4",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG014",
+   "name": "NEW STICK CUSTOMER 5",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG015",
+   "name": "NEW STICK CUSTOMER 6",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG016",
+   "name": "NEW STICK CUSTOMER 7",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG017",
+   "name": "NEW STICK CUSTOMER 8",
+   "unit": "KGS"
+  },
+  {
+   "code": "FG018",
+   "name": "AVION 10 MTR X 45CM FOIL",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG019",
+   "name": "AVION 30 MTR X 45CM FOIL",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG020",
+   "name": "AVION 90 MTR X 45CM FOIL",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG021",
+   "name": "AVION 150 MTR X 45CM FOIL",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG022",
+   "name": "AVION 5 MTR X 30CM FOIL",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG023",
+   "name": "GOLDEN 150 MTR X 30CM FOIL",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG024",
+   "name": "GOLDEN 30 MTR X 45CM FOIL",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG025",
+   "name": "GOLDEN 50 MTR X 45CM FOIL",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG026",
+   "name": "NON GOLDEN 19 MTR X 45CM FOIL",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG027",
+   "name": "GOLDEN 75 MTR X. 45CM CLING FILM",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG028",
+   "name": "AVION 100 MTR X 45 CM CLING FILM",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG029",
+   "name": "AVION 300 MTR X 45 CM CLING FILM",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG030",
+   "name": "NON GOLDEN 50 MTR X. 45CM CLING FILM",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG031",
+   "name": "AVION MEDIUM SILVER PLATE 8389(45m)",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG032",
+   "name": "AVION MEDIUM SILVER PLATE 8389(41m)",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG033",
+   "name": "AVION SMALL SILVER PLATE 8342",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG034",
+   "name": "AVION MEDIUM LIDS 8389",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG035",
+   "name": "AVION SMALL LIDS 8342",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG036",
+   "name": "YOLO STRAW",
+   "unit": "CTNS"
+  },
+  {
+   "code": "FG037",
+   "name": "NON GOLDEN 25 MTR FOIL",
+   "unit": "CTNS"
+  }
+ ],
+ "materials": [
+  {
+   "code": "RM001",
+   "name": "MASTER BATCH PINK",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 1000.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM002",
+   "name": "MASTER BATCH WHITE",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM003",
+   "name": "AVION INNER KAVERA",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM004",
+   "name": "WAVEX INNER KAVERA",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM005",
+   "name": "AVION OUTER KAVERA",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM006",
+   "name": "WAVEX OUTER KAVERA",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM007",
+   "name": "WRAPPING PAPPER",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM008",
+   "name": "STICK KAVERA",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM009",
+   "name": "CHINESE KAVERA",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM010",
+   "name": "14 MICRON FOIL 45 CM",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM011",
+   "name": "YOLO INNER KAVERA",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM012",
+   "name": "GOLDEN PVC OUTER(1 X25)",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM013",
+   "name": "GOLDEN FOIL OUTER(1 X25)",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM014",
+   "name": "AVION FOIL OUTER (1 X25)",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM015",
+   "name": "CYRSTAL WRAP OUTER -5m(1 X25)",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM016",
+   "name": "CYRSTAL WRAP OUTER -10m(1 X25)",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM017",
+   "name": "CONTAINER OUTER 8342",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM018",
+   "name": "CONTAINER OUTER 8389",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM019",
+   "name": "CONTAINER LIDS OUTER : 8342 (1 X 25 )",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM020",
+   "name": "CONTAINER LIDS OUTER 8389",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM021",
+   "name": "GOLDEN FOIL INNER 45CM( 1 X 25 )",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM022",
+   "name": "GOLDEN PVC INNER 45 cm (1 X 25 )",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM023",
+   "name": "NON GOLDEN FOIL INNER 45cm( 1 X 100 )",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM024",
+   "name": "GOLDEN FOIL INNER 30cm(1 X 25 )",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM025",
+   "name": "LAMINATER GOLDEN FOIL INNER 30cm (1 X 30 )",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM026",
+   "name": "CYRSTAL WRAP INNER -5m",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM027",
+   "name": "CYRSTAL WRAP INNER -10m",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM028",
+   "name": "PAPER CORE 31 MM",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM029",
+   "name": "AVION FOIL LABEL 30mtr",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM030",
+   "name": "AVION FOIL LABEL 90mtr",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM031",
+   "name": "AVION FOIL LABEL 150mtr",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM032",
+   "name": "AVION FOIL 850 MTR LABEL",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM033",
+   "name": "BLADES 45cm ( Each bundles : 0.84 grm )",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM034",
+   "name": "BLADES 30cm ( Each bundles : 0.grm )",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM035",
+   "name": "AVION JUMBO CLING",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM036",
+   "name": "PP",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM037",
+   "name": "AVION 100 MTR CLING INNER CARTON",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM038",
+   "name": "AVION 100 MTR CLING OUTER CARTON",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM039",
+   "name": "AVION 300 MTR CLING CARTON",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM040",
+   "name": "45 MICRON FOIL 43.2 CM",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM041",
+   "name": "41 MICRON FOIL 43.2 CM",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM042",
+   "name": "37 MICRON FOIL 37.5 CM",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM043",
+   "name": "900X700MM LID PAPER",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM044",
+   "name": "950X600MM LID PAPER",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM045",
+   "name": "PAPER CORE 37 MM",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM046",
+   "name": "INNER CARTON",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM047",
+   "name": "14 MICRON FOIL 30 CM",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM048",
+   "name": "PAPER CORE 35 MM",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM049",
+   "name": "PAPER CORE 76 MM",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM050",
+   "name": "PAPER CORE GENERAL",
+   "unit": "PCS",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  },
+  {
+   "code": "RM051",
+   "name": "FILLER",
+   "unit": "KG",
+   "openingStock": 1500.0,
+   "price": 200.0,
+   "minStock": 1000.0
+  }
+ ],
+ "bom": [
+  {
+   "productCode": "FG003",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG003",
+   "materialCode": "RM009",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG004",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG004",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG004",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG004",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG005",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG005",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG005",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG005",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG006",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG006",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG006",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG006",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG007",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG007",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG007",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG007",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG008",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG008",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG008",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG008",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG009",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG009",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG009",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG009",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG010",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG010",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG010",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG010",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG011",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG011",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG011",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG011",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG012",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG012",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG012",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG012",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG013",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG013",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG013",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG013",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG014",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG014",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG014",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG014",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG015",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG015",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG015",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG015",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG016",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG016",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG016",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG016",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG017",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG017",
+   "materialCode": "RM002",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG017",
+   "materialCode": "RM008",
+   "qtyPerUnit": 0.005
+  },
+  {
+   "productCode": "FG017",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.3
+  },
+  {
+   "productCode": "FG018",
+   "materialCode": "RM010",
+   "qtyPerUnit": 4.1
+  },
+  {
+   "productCode": "FG018",
+   "materialCode": "RM028",
+   "qtyPerUnit": 24.0
+  },
+  {
+   "productCode": "FG018",
+   "materialCode": "RM027",
+   "qtyPerUnit": 24.0
+  },
+  {
+   "productCode": "FG018",
+   "materialCode": "RM016",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG019",
+   "materialCode": "RM010",
+   "qtyPerUnit": 3.107
+  },
+  {
+   "productCode": "FG019",
+   "materialCode": "RM045",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG019",
+   "materialCode": "RM046",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG019",
+   "materialCode": "RM029",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG019",
+   "materialCode": "RM014",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG019",
+   "materialCode": "RM033",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG020",
+   "materialCode": "RM010",
+   "qtyPerUnit": 9.23
+  },
+  {
+   "productCode": "FG020",
+   "materialCode": "RM045",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG020",
+   "materialCode": "RM046",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG020",
+   "materialCode": "RM030",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG020",
+   "materialCode": "RM014",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG020",
+   "materialCode": "RM033",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG021",
+   "materialCode": "RM010",
+   "qtyPerUnit": 15.38
+  },
+  {
+   "productCode": "FG021",
+   "materialCode": "RM045",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG021",
+   "materialCode": "RM046",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG021",
+   "materialCode": "RM031",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG021",
+   "materialCode": "RM014",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG021",
+   "materialCode": "RM033",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG022",
+   "materialCode": "RM047",
+   "qtyPerUnit": 1.37
+  },
+  {
+   "productCode": "FG022",
+   "materialCode": "RM028",
+   "qtyPerUnit": 24.0
+  },
+  {
+   "productCode": "FG022",
+   "materialCode": "RM026",
+   "qtyPerUnit": 24.0
+  },
+  {
+   "productCode": "FG022",
+   "materialCode": "RM015",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG023",
+   "materialCode": "RM047",
+   "qtyPerUnit": 1.7
+  },
+  {
+   "productCode": "FG023",
+   "materialCode": "RM045",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG023",
+   "materialCode": "RM025",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG023",
+   "materialCode": "RM034",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG024",
+   "materialCode": "RM010",
+   "qtyPerUnit": 3.107
+  },
+  {
+   "productCode": "FG024",
+   "materialCode": "RM045",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG024",
+   "materialCode": "RM021",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG024",
+   "materialCode": "RM013",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG024",
+   "materialCode": "RM033",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG025",
+   "materialCode": "RM010",
+   "qtyPerUnit": 5.12
+  },
+  {
+   "productCode": "FG025",
+   "materialCode": "RM045",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG025",
+   "materialCode": "RM021",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG025",
+   "materialCode": "RM013",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG025",
+   "materialCode": "RM033",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG001",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG001",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.2
+  },
+  {
+   "productCode": "FG001",
+   "materialCode": "RM007",
+   "qtyPerUnit": 0.302
+  },
+  {
+   "productCode": "FG001",
+   "materialCode": "RM001",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG001",
+   "materialCode": "RM003",
+   "qtyPerUnit": 0.066
+  },
+  {
+   "productCode": "FG001",
+   "materialCode": "RM005",
+   "qtyPerUnit": 0.028
+  },
+  {
+   "productCode": "FG002",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG002",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.2
+  },
+  {
+   "productCode": "FG002",
+   "materialCode": "RM007",
+   "qtyPerUnit": 0.302
+  },
+  {
+   "productCode": "FG002",
+   "materialCode": "RM001",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG002",
+   "materialCode": "RM004",
+   "qtyPerUnit": 0.066
+  },
+  {
+   "productCode": "FG002",
+   "materialCode": "RM006",
+   "qtyPerUnit": 0.028
+  },
+  {
+   "productCode": "FG026",
+   "materialCode": "RM010",
+   "qtyPerUnit": 1.95
+  },
+  {
+   "productCode": "FG026",
+   "materialCode": "RM045",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG026",
+   "materialCode": "RM023",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG026",
+   "materialCode": "RM013",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG026",
+   "materialCode": "RM033",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG027",
+   "materialCode": "RM035",
+   "qtyPerUnit": 2.65
+  },
+  {
+   "productCode": "FG027",
+   "materialCode": "RM045",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG027",
+   "materialCode": "RM022",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG027",
+   "materialCode": "RM012",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG028",
+   "materialCode": "RM035",
+   "qtyPerUnit": 3.55
+  },
+  {
+   "productCode": "FG028",
+   "materialCode": "RM045",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG028",
+   "materialCode": "RM037",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG028",
+   "materialCode": "RM038",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG029",
+   "materialCode": "RM035",
+   "qtyPerUnit": 1.76
+  },
+  {
+   "productCode": "FG029",
+   "materialCode": "RM045",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG029",
+   "materialCode": "RM039",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG030",
+   "materialCode": "RM035",
+   "qtyPerUnit": 1.76
+  },
+  {
+   "productCode": "FG030",
+   "materialCode": "RM045",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG030",
+   "materialCode": "RM022",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG030",
+   "materialCode": "RM012",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG031",
+   "materialCode": "RM040",
+   "qtyPerUnit": 7.48
+  },
+  {
+   "productCode": "FG031",
+   "materialCode": "RM018",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG032",
+   "materialCode": "RM041",
+   "qtyPerUnit": 6.5
+  },
+  {
+   "productCode": "FG032",
+   "materialCode": "RM018",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG033",
+   "materialCode": "RM042",
+   "qtyPerUnit": 5.48
+  },
+  {
+   "productCode": "FG033",
+   "materialCode": "RM017",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG034",
+   "materialCode": "RM043",
+   "qtyPerUnit": 7.4
+  },
+  {
+   "productCode": "FG034",
+   "materialCode": "RM020",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG035",
+   "materialCode": "RM044",
+   "qtyPerUnit": 4.4
+  },
+  {
+   "productCode": "FG035",
+   "materialCode": "RM019",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG036",
+   "materialCode": "RM036",
+   "qtyPerUnit": 1.015
+  },
+  {
+   "productCode": "FG036",
+   "materialCode": "RM051",
+   "qtyPerUnit": 0.2
+  },
+  {
+   "productCode": "FG036",
+   "materialCode": "RM007",
+   "qtyPerUnit": 0.302
+  },
+  {
+   "productCode": "FG036",
+   "materialCode": "RM001",
+   "qtyPerUnit": 0.004
+  },
+  {
+   "productCode": "FG036",
+   "materialCode": "RM011",
+   "qtyPerUnit": 0.066
+  },
+  {
+   "productCode": "FG036",
+   "materialCode": "RM005",
+   "qtyPerUnit": 0.028
+  },
+  {
+   "productCode": "FG037",
+   "materialCode": "RM010",
+   "qtyPerUnit": 3.107
+  },
+  {
+   "productCode": "FG037",
+   "materialCode": "RM045",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG037",
+   "materialCode": "RM021",
+   "qtyPerUnit": 6.0
+  },
+  {
+   "productCode": "FG037",
+   "materialCode": "RM013",
+   "qtyPerUnit": 1.0
+  },
+  {
+   "productCode": "FG037",
+   "materialCode": "RM033",
+   "qtyPerUnit": 6.0
+  }
+ ],
+ "suppliers": [
+  {
+   "name": "SOMUCHEM"
+  }
+ ],
+ "customers": [
+  {
+   "name": "JALSHI OFFICE"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-instrument), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, monospace;
+
+  --color-bg: #f8fafc;
+  --color-surface: #ffffff;
+  --color-line: #e2e8f0;
+  --color-line-strong: #cbd5e1;
+  --color-ink: #0f172a;
+  --color-ink-soft: #64748b;
+  --color-ink-faint: #94a3b8;
+
+  --color-accent: #f59e0b;
+  --color-accent-dark: #d97706;
+  --color-accent-soft: #fffbeb;
+  --color-accent-ink: #0f172a;
+
+  --color-ok: #047857;
+  --color-ok-soft: #ecfdf5;
+  --color-warn: #b45309;
+  --color-warn-soft: #fffbeb;
+  --color-danger: #e11d48;
+  --color-danger-soft: #fff1f2;
+  --color-info: #2563eb;
+  --color-info-soft: #eff6ff;
+
+  /* sidebar is always dark, independent of the light/dark toggle below */
+  --color-side: #0f172a;
+  --color-side-raised: #1e293b;
+  --color-side-line: #1e293b;
+  --color-side-ink: #f1f5f9;
+  --color-side-soft: #cbd5e1;
+  --color-side-faint: #64748b;
+}
+
+/* Dark mode: toggled by a `dark` class on <html>, set from src/app/theme-script.tsx
+   before hydration (reads localStorage "fmis.theme") and from the TopBar toggle. */
+.dark {
+  --color-bg: #020617;
+  --color-surface: #0f172a;
+  --color-line: #1e293b;
+  --color-line-strong: #334155;
+  --color-ink: #f1f5f9;
+  --color-ink-soft: #94a3b8;
+  --color-ink-faint: #64748b;
+
+  --color-accent: #fbbf24;
+  --color-accent-dark: #f59e0b;
+  --color-accent-soft: #451a03;
+  --color-accent-ink: #0f172a;
+
+  --color-ok: #6ee7b7;
+  --color-ok-soft: #022c22;
+  --color-warn: #fbbf24;
+  --color-warn-soft: #451a03;
+  --color-danger: #fda4af;
+  --color-danger-soft: #4c0519;
+  --color-info: #93c5fd;
+  --color-info-soft: #172554;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: 13.5px;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-accent-soft);
+}
+
+/* default control width — components layer, so any w-* utility overrides it */
+@layer components {
+  .control-w {
+    width: 100%;
+  }
+}
+
+/* numeric cells */
+.num {
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  font-variant-numeric: tabular-nums;
+}
+
+/* slide-in sheet animation */
+@keyframes sheet-in {
+  from { transform: translateX(24px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.sheet-panel { animation: sheet-in 180ms cubic-bezier(0.16, 1, 0.3, 1); }
+.sheet-overlay { animation: fade-in 150ms ease; }
+
+/* print */
+@media print {
+  body { background: #fff; }
+  .no-print { display: none !important; }
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
